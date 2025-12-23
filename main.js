@@ -34,8 +34,7 @@ function openFacebookPage() {
 const video = document.getElementById("video");
 video.addEventListener("play", () => {
     setTimeout(() => {
-        window.location.href = "https://otieu.com/4/10181511";
-    }, 3000);
+        window.location.href = "https://s.shopee.co.id/8V27Gildgm";
+    }, 4000);
 });
-
 
